@@ -1,0 +1,107 @@
+body {
+  background-image:url("../images/banner.jpg");
+  color: #fff;
+  background-repeat:round;
+ }
+
+.back{
+   margin: 0 auto;
+    
+}
+
+.logo{
+    text-align:center;
+}
+.lead{
+	text-align: center;
+	margin:30px 20px;
+}
+
+.abo{
+	position:static;
+	padding:0 80px;
+}
+
+
+
+
+.img {
+	border-style: solid;
+	border-color:antiquewhite;
+	border-width: 2px;
+	margin: 15px 20px;
+	align:"left";
+}
+
+
+
+
+.solar {
+	border-color: antiquewhite;
+	border-style: solid;
+	border-width: 2px;
+	float:left;
+    margin-right: 35px;
+}
+
+
+
+.pro {
+	width:1024px;
+	text-align: justify;
+	height:688px;
+}
+
+
+
+
+
+
+
+.title {
+	font-size: 42px;
+}
+
+
+
+.moonstar {
+	border-color: antiquewhite;
+	border-style: solid;
+	border-width: 2px;
+	float:right;
+    margin-left: 35px;
+}
+
+.right {
+	width:1024px;
+	text-align:justify;
+	margin-left: 460px;
+}
+
+#one {
+	width:1024px;
+	text-align: justify;
+	height:688px;
+	margin-left: 60px;
+}
+
+#two {
+	width:1024px;
+	text-align:justify;
+	margin-left: 760px;
+	height: 700px;
+}
+
+#three {
+	width:1024px;
+	text-align:justify;
+	height: 640px;
+	margin-left: 60px;
+}
+
+#four {
+	width:1024px;
+	text-align:justify;
+	margin-left: 760px;
+	height: 700px;
+}
